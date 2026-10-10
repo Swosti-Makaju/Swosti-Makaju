@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:02569B&height=180&section=header&text=Swosti%20Makaju&fontSize=42&fontColor=ffffff&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:02569B&height=180&section=header&text=Swosti%20Makaju&fontSize=42&fontColor=ffffff&fontAlignY=38descAlignY=58&descSize=16" alt="header" />
+
+<a href="https://www.swostimakaju.com.np/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0175C2&center=true&vCenter=true&width=520&height=40&lines=Building+Flutter+apps+%F0%9F%93%B1;Designing+clean+interfaces+%F0%9F%8E%A8;Learning+something+new+every+day+%F0%9F%9A%80" alt="typing intro" />
+</a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-swostimakaju.com.np-0175C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.swostimakaju.com.np/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swosti-makaju-76aa0528a/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makajuswosti05@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=Swosti-Makaju&style=for-the-badge&color=0175C2&label=PROFILE+VIEWS)
+
+<img src="assets/animals.svg" alt="animated animals" width="100%" />
 
 </div>
 
@@ -20,7 +27,23 @@ I'm a final-year BCA student from Nepal who builds mobile apps and designs the i
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**🌦️ Weather App**](https://github.com/Swosti-Makaju/Weather_App) | Live weather at a glance | `Flutter` `Dart` |
+| [**📝 Notes App**](https://github.com/Swosti-Makaju/Notes_App) | Simple, fast note taking | `Flutter` `Dart` |
+| [**📚 Library Management System**](https://github.com/Swosti-Makaju/Library-Management-System) | Manage books, members and records | `PHP` `MySQL` |
+| [**🚗 Vehicle Rental System**](https://github.com/Swosti-Makaju/Vehicle-II) | Browse and book vehicles | `PHP` `MySQL` |
+| [**🛒 WordPress eCommerce Site**](https://github.com/Swosti-Makaju/wordpress-ecommerce-site) | Full online store | `WordPress` |
+| [**🌐 Portfolio**](https://github.com/Swosti-Makaju/My-Portfolio) | My personal site | `HTML` `CSS` |
+
+---
+
+<details>
+<summary><b>🛠️ Tech Stack</b> &nbsp;<i>(click to expand)</i></summary>
+
+<br>
 
 **Mobile & Design**
 
@@ -52,22 +75,12 @@ I'm a final-year BCA student from Nepal who builds mobile apps and designs the i
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
----
+</details>
 
-### 🚀 Featured Projects
+<details>
+<summary><b>📊 GitHub Stats</b> &nbsp;<i>(click to expand)</i></summary>
 
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**🌦️ Weather App**](https://github.com/Swosti-Makaju/Weather_App) | Live weather at a glance | `Flutter` `Dart` |
-| [**📝 Notes App**](https://github.com/Swosti-Makaju/Notes_App) | Simple, fast note taking | `Flutter` `Dart` |
-| [**📚 Library Management System**](https://github.com/Swosti-Makaju/Library-Management-System) | Manage books, members and records | `PHP` `MySQL` |
-| [**🚗 Vehicle Rental System**](https://github.com/Swosti-Makaju/Vehicle-II) | Browse and book vehicles | `PHP` `MySQL` |
-| [**🛒 WordPress eCommerce Site**](https://github.com/Swosti-Makaju/wordpress-ecommerce-site) | Full online store | `WordPress` |
-| [**🌐 Portfolio**](https://github.com/Swosti-Makaju/My-Portfolio) | My personal site | `HTML` `CSS` |
-
----
-
-### 📊 GitHub Stats
+<br>
 
 <div align="center">
 
@@ -75,6 +88,8 @@ I'm a final-year BCA student from Nepal who builds mobile apps and designs the i
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swosti-Makaju&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
 
 </div>
+
+</details>
 
 ---
 
